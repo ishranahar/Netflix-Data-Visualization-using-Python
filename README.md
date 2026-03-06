@@ -38,20 +38,6 @@ This project includes several visualizations such as:
 5. Top 10 countries by Netflix content
 6. Comparison of Movies and TV Shows released over years
 
-## Example Visualizations
-
-### Movies vs TV Shows
-![Movies vs TV Shows](movies_vs_tvshows.png)
-
-### Content Rating Distribution
-![Rating Pie Chart](contant_rating_parcentage_pie.png)
-
-### Release Year vs Shows
-![Release Year Scatter](release_year_scatter.png)
-
-### Top Countries
-![Top Countries](top_10_countries.png)
-
 ## Conclusion
 
 From the analysis we observed that:
