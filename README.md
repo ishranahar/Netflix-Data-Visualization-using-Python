@@ -9,6 +9,7 @@ The goal of this project is to explore Netflix content data and generate meaning
 
 The dataset contains information about Netflix movies and TV shows including:
 
+
 - Title
 - Type (Movie / TV Show)
 - Release Year
